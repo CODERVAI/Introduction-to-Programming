@@ -1,4 +1,4 @@
-![](img/i2p.png)
+![](i2p.png)
 
 # [Introduction to Programming : Building Your First Game with Python](https://py.codervai.com/)
 
